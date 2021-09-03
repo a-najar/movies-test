@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoviesDb</string>
+    <string name="top_rated">Top rated</string>
+    <string name="popular">Popular</string>
+    <string name="latest">Latest</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="title_movies">Movies</string>
+    <string name="text_voting">"Average Voting (%s) &amp; count (%s)"</string>
+</resources>
